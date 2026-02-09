@@ -108,8 +108,7 @@ echo "Running configure..." | tee -a "$LOG"
 ########################################
 # Success
 ########################################
-
-echo "leptonica SUCCESS ($PLATFORM)" | tee -a "$LOG"
-echo "Installed to $PREFIX"
-
+echo "===================================" | tee -a "$LOG"
+echo "🟢 leptonica SUCCESS ($PLATFORM)" | tee -a "$LOG"
+echo "Installed to $PREFIX"          | tee -a "$LOG"
 echo "==================================" | tee -a "$LOG"

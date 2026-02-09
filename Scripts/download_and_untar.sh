@@ -2,7 +2,7 @@
 set -euo pipefail
 
 ###############################################################################
-# Scripts/download_and_untar.sh
+# Path: Scripts/download_and_untar.sh
 #
 # Downloads and extracts all source dependencies required to build
 # Tesseract 5.5.2 for iOS and macOS.
